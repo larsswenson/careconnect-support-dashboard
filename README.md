@@ -36,12 +36,13 @@ npm install
 
 From the root directory, run both frontend and backend concurrently:
 
+```bash
 npm run dev
+```
 
+- Frontend: http://localhost:3000
 
-Frontend: http://localhost:3000
-
-Backend API: http://localhost:4000
+- Backend API: http://localhost:4000
 
 ## Quick Demo
 
