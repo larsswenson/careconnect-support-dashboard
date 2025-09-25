@@ -32,7 +32,7 @@ npm install
 cd ../frontend
 npm install
 ```
-Running the Application
+### Running the Application
 
 From the root directory, run both frontend and backend concurrently:
 
@@ -43,43 +43,27 @@ Frontend: http://localhost:3000
 
 Backend API: http://localhost:4000
 
-Quick Demo
+## Quick Demo
 
-Open the frontend in your browser.
+- Open the frontend in your browser.
 
-Submit a support ticket in the Ticket Form.
+- Submit a support ticket in the Ticket Form.
 
-Tickets appear live in the Ticket List.
+- Tickets appear live in the Ticket List.
 
-Click Run Onboarding Automation, enter a name, and view the JSON output.
+- Click Run Onboarding Automation, enter a name, and view the JSON output.
 
-Explore the Knowledge Base tab.
+- Explore the Knowledge Base tab.
 
-Project Structure
-careconnect-support-dashboard/
-├─ backend/
-│  ├─ server.js
-│  ├─ tickets.json
-│  └─ onboard.py
-├─ frontend/
-│  ├─ src/
-│  │  ├─ App.tsx
-│  │  ├─ api.ts
-│  │  └─ components/
-│  │     ├─ TicketForm.tsx
-│  │     ├─ TicketList.tsx
-│  │     └─ KnowledgeBase.tsx
-├─ package.json
-└─ README.md
 
-Notes
+## Notes
 
-Designed for demo and interview purposes.
+- Designed for demo purposes.
 
-Data is stored locally in JSON files; no database is used.
+- Data is stored locally in JSON files; no database is used.
 
-Python script output is simulated for onboarding automation.
+- Python script output is simulated for onboarding automation.
 
-License
+## License
 
 MIT License
