@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1758756507182",
+    "issue": "Login problem",
+    "description": "User gets 403 error",
+    "priority": "High",
+    "status": "closed",
+    "createdAt": "2025-09-24T23:28:27.182Z",
+    "updatedAt": "2025-09-24T23:28:34.229Z"
+  },
+  {
+    "id": "1758756118690",
+    "issue": "Cannot log in",
+    "description": "User gets 403 error",
+    "priority": "High",
+    "status": "open",
+    "createdAt": "2025-09-24T23:21:58.690Z"
+  }
+]

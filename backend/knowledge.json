@@ -1,0 +1,12 @@
+[
+  {
+    "id": "kb-1",
+    "title": "Reset Portal Password",
+    "content": "Go to portal.example.com -> Forgot password -> follow magic link. If still blocked, file a ticket with 'password reset' priority."
+  },
+  {
+    "id": "kb-2",
+    "title": "Set up MFA (Authenticator App)",
+    "content": "Install an authenticator app, scan the QR from the profile > Security page, save backup codes."
+  }
+]
