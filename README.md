@@ -40,7 +40,7 @@ CareConnect Support Dashboard is a lightweight **React + Next.js** application t
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 ```bash
